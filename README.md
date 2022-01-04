@@ -1,5 +1,5 @@
 # BU-SocialSentiment583
-![Project Image](./assets/img.png)
+![Project Image](./melspec.png)
 
 ### Table of Contents
 
